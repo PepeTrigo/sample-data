@@ -1,0 +1,20 @@
+[
+  {
+    "brand": "Powell Peralta",
+    "model": "Skull & Sword",
+    "artist": "VCJ",
+    "image": "images/skull-and-sword.jpg"
+  },
+  {
+    "brand": "Powell Peralta",
+    "model": "Ray Brabee",
+    "artist": "Sean Cliver",
+    "image": "images/ray-barbee.jpg"
+  },
+  {
+    "brand": "Santa Cruz",
+    "model": "Steve Alba",
+    "artist": "Jim Phillips",
+    "image": "images/salba.jpg"
+  }
+]
