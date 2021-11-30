@@ -1,0 +1,259 @@
+[
+    {
+      "id": 2,
+      "day": [
+        {
+          "day": 1,
+          "exercices": [
+            {
+              "type": "time",
+              "exercise":
+                "calentamiento cardiovascular 15 minutos suave maquina a elegir",
+              "time": 10
+            },
+            {
+              "type": "series",
+              "exercise": "sentadilla libre",
+              "series": 4,
+              "repetitions": 15
+            },
+            {
+              "type": "series",
+              "exercise": "sentadilla sumo kettelbell",
+              "series": 4,
+              "repetitions": 12
+            },
+            {
+              "type": "series",
+              "exercise": "chest press",
+              "series": 4,
+              "repetitions": 12
+            },
+            {
+              "type": "series",
+              "exercise": "pectoral",
+              "series": 4,
+              "repetitions": 12
+            },
+            {
+              "type": "series",
+              "exercise": "hoover con elevacion de pierna",
+              "series": 4,
+              "repetitions": 16
+            },
+            {
+              "type": "series",
+              "exercise": "abdominal crunch",
+              "series": 4,
+              "repetitions": 12
+            },
+            {
+              "type": "time",
+              "exercise": "10 min bici : 2 suave, 1moderado/1suave x4",
+              "time": 10
+            },
+            {
+              "type": "time",
+              "exercise": "10 min continuo suave cinta/curve/skilmill",
+              "time": 10
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "exercices": [
+            {
+              "type": "time",
+              "exercise": "calentamiento 15 minutos suave maquina a elegir",
+              "time": 15
+            },
+            {
+              "type": "series",
+              "exercise": "remo en trx",
+              "series": 4,
+              "repetitions": 15
+            },
+            {
+              "type": "series",
+              "exercise": "tracción vertical con goma",
+              "series": 4,
+              "repetitions": 12
+            },
+            {
+              "type": "series",
+              "exercise": "leg curl",
+              "series": 4,
+              "repetitions": 15
+            },
+            {
+              "type": "series",
+              "exercise": "glute",
+              "series": 4,
+              "repetitions": 12
+            },
+            {
+              "type": "series",
+              "exercise": "elevaciones de cadera en plancha lateral",
+              "series": 4,
+              "repetitions": 10
+            },
+            {
+              "type": "series",
+              "exercise":
+                "tendido prono, elevación de tronco con cierre escapular",
+              "series": 4,
+              "repetitions": 10
+            },
+            {
+              "type": "time",
+              "exercise":
+                "eliptica: 4 min suave/12 progresion hasta moderado/4 suave",
+              "time": 20
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "exercices": [
+            {
+              "type": "time",
+              "exercise": "calentamiento 10 min de remo",
+              "time": 15
+            },
+            {
+              "type": "series",
+              "exercise":
+                "circuito metabólico: air squat / triceps push ups / medio puente/ climber/1minuto de remo 4 vueltas de 16 repeticiones de cada ejercicio con 1 minuto y medio de descanso entre vueltas",
+              "series": 4,
+              "repetitions": 15
+            },
+            {
+              "type": "time",
+              "exercise": "eliptica",
+              "time": 10
+            },
+            {
+              "type": "series",
+              "exercise": "maq abd + maq add",
+              "series": 4,
+              "repetitions": 12
+            },
+            {
+              "type": "series",
+              "exercise": "maquina de gemelo",
+              "series": 4,
+              "repetitions": 12
+            },
+            {
+              "type": "time",
+              "exercise": "bici",
+              "time": 10
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "exercices": [
+            {
+              "type": "time",
+              "exercise": "calentamiento suave en cualquier maquina cardio",
+              "time": 15
+            },
+            {
+              "type": "series",
+              "exercise": "Press de hombro mancuernas de pie",
+              "series": 4,
+              "repetitions": 12
+            },
+            {
+              "type": "series",
+              "exercise": "elevaciones laterales mancuerna",
+              "series": 4,
+              "repetitions": 12
+            },
+            {
+              "type": "series",
+              "exercise": "curl biceps mancuernas",
+              "series": 4,
+              "repetitions": 12
+            },
+            {
+              "type": "series",
+              "exercise": "extension triceps polea",
+              "series": 4,
+              "repetitions": 12
+            },
+            {
+              "type": "series",
+              "exercise": "upper row ",
+              "series": 4,
+              "repetitions": 10
+            },
+            {
+              "type": "series",
+              "exercise":
+                "circuito core: plancha 10 / 10 crucnh / 10 plancha lateral izqda / 10 reverse crunch /10 plancha lateral dcha",
+              "series": 4,
+              "repetitions": 10
+            },
+            {
+              "type": "series",
+              "exercise": "tendido prono, elevacion de tronco y cierre escapular",
+              "series": 4,
+              "repetitions": 10
+            },
+            {
+              "type": "time",
+              "exercise": "suave de cardiovascular en cualquier máquina",
+              "time": 15
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "exercices": [
+            {
+              "type": "time",
+              "exercise":
+                "calentamiento 10 suave cualquier máquina cardiovascular",
+              "time": 15
+            },
+            {
+              "type": "series",
+              "exercise": "peso muerto 4x12",
+              "series": 4,
+              "repetitions": 12
+            },
+            {
+              "type": "series",
+              "exercise": "hip thruster o medio puente 4x12",
+              "series": 4,
+              "repetitions": 12
+            },
+            {
+              "type": "series",
+              "exercise": "leg press 4x12",
+              "series": 4,
+              "repetitions": 12
+            },
+            {
+              "type": "series",
+              "exercise": "chest incline 4x12",
+              "series": 4,
+              "repetitions": 12
+            },
+            {
+              "type": "time",
+              "exercise": "10 bici: 2 suave, 1moderado/1suave x4",
+              "time": 10
+            },
+            {
+              "type": "time",
+              "exercise": "10  suave en elíptica",
+              "time": 10
+            }
+          ]
+        }
+      ]
+    }
+]
