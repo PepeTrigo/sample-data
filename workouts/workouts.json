@@ -1,15 +1,15 @@
 [
     {
       "id": 2,
-      "day": [
+      "set": [
         {
-          "day": 1,
+          "workout": 1,
           "exercices": [
             {
               "type": "time",
               "exercise":
                 "calentamiento cardiovascular 15 minutos suave maquina a elegir",
-              "time": 10
+              "time": 15
             },
             {
               "type": "series",
@@ -60,7 +60,7 @@
           ]
         },
         {
-          "day": 2,
+          "workout": 2,
           "exercices": [
             {
               "type": "time",
@@ -113,7 +113,7 @@
           ]
         },
         {
-          "day": 3,
+          "workout": 3,
           "exercices": [
             {
               "type": "time",
@@ -152,7 +152,7 @@
           ]
         },
         {
-          "day": 4,
+          "workout": 4,
           "exercices": [
             {
               "type": "time",
@@ -210,7 +210,7 @@
           ]
         },
         {
-          "day": 5,
+          "workout": 5,
           "exercices": [
             {
               "type": "time",
@@ -250,6 +250,252 @@
             {
               "type": "time",
               "exercise": "10  suave en elíptica",
+              "time": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "set": [
+        {
+          "workout": 1,
+          "exercices": [
+            {
+              "type": "time",
+              "exercise":
+                "calentamiento cardiovascular, 3 suave, 5 moderado, 2 suave",
+              "time": 10
+            },
+            {
+              "type": "series",
+              "exercise": "sentadilla con disco en el pecho + flexiones",
+              "series": 4,
+              "repetitions": 10
+            },
+            {
+              "type": "series",
+              "exercise": "lunge estático + chest press",
+              "series": 4,
+              "repetitions": 12
+            },
+            {
+              "type": "series",
+              "exercise": "leg extension + extension de triceps",
+              "series": 3,
+              "repetitions": 10
+            },
+            {
+              "type": "series",
+              "exercise": "tabla 10''+climber 10 reps+ tabla 10''",
+              "series": 3,
+              "repetitions": 10
+            },
+            {
+              "type": "series",
+              "exercise": "de tabla a tabla lateral",
+              "series": 4,
+              "repetitions": 10
+            },
+            {
+              "type": "time",
+              "exercise":
+                "intervalico 2'progresivo de suave a moderado 1'fuerte/1'suavex5 bici",
+              "time": 12
+            },
+            {
+              "type": "time",
+              "exercise":
+                "cinta cuesta arriba progresion de suave a fuerte",
+              "time": 10
+            }
+          ]
+        },
+        {
+          "workout": 2,
+          "exercices": [
+            {
+              "type": "time",
+              "exercise":
+                "calentamiento cardiovascular, 3 suave, 5 moderado, 2 suave",
+              "time": 10
+            },
+            {
+              "type": "series",
+              "exercise": "peso muerto + remo en polea o kinesis",
+              "series": 4,
+              "repetitions": 10
+            },
+            {
+              "type": "series",
+              "exercise": "medio puente o hip thruster + pulldown",
+              "series": 4,
+              "repetitions": 10
+            },
+            {
+              "type": "series",
+              "exercise": "leg curl + remo vertical ",
+              "series": 3,
+              "repetitions": 10
+            },
+            {
+              "type": "series",
+              "exercise": "leñador de pie horizontal en kinesis",
+              "series": 4,
+              "repetitions": 12
+            },
+            {
+              "type": "series",
+              "exercise": "crunch para oblicuos + tendido prono elevación de pecho y cierre escapular",
+              "series": 4,
+              "repetitions": 10
+            },
+            {
+              "type": "time",
+              "exercise":
+                "elíptica: 5' suave 5' progresion hasta moderado, 6 moderado, 5 regresion hasta suave 4' suave",
+              "time": 25
+            }
+          ]
+        },
+        {
+          "workout": 3,
+          "exercices": [
+            {
+              "type": "time",
+              "exercise":
+                "calentamiento cardiovascular, 3 suave, 5 moderado, 2 suave",
+              "time": 10
+            },
+            {
+              "type": "series",
+              "exercise": "sentarse en plyobox levantarse y pequeña propulsion + deepings",
+              "series": 4,
+              "repetitions": 10
+            },
+            {
+              "type": "series",
+              "exercise": "lunge dinámico frontal + aperturas en kinesis o en banco con mancuernas",
+              "series": 4,
+              "repetitions": 10
+            },
+            {
+              "type": "series",
+              "exercise": "lunge cruzado en trx+ biceps en trx",
+              "series": 3,
+              "repetitions": 10
+            },
+            {
+              "type": "series",
+              "exercise": "plancha 10'' + levantar codo x5 reps cada lado (apoyar rodillas si las caderas giran) + plancha 10''",
+              "series": 4,
+              "repetitions": 10
+            },
+            {
+              "type": "series",
+              "exercise": "climber x10 + abdominal crunch x10 3 series",
+              "series": 3,
+              "repetitions": 10
+            },
+            {
+              "type": "time",
+              "exercise":
+                "skilmill o cinta 2 suave 1fuerte/1suavex5",
+              "time": 12
+            },
+            {
+              "type": "time",
+              "exercise":
+                "remo 2 suave, 6 moderado, 2 suave",
+              "time": 10
+            }
+          ]
+        },
+        {
+          "workout": 4,
+          "exercices": [
+            {
+              "type": "time",
+              "exercise":
+                "calentamiento cardiovascular suave",
+              "time": 10
+            },
+            {
+              "type": "series",
+              "exercise": "sentadilla bulgara + pajaro en kinesis",
+              "series": 4,
+              "repetitions": 10
+            },
+            {
+              "type": "series",
+              "exercise": "glute + remo en trx",
+              "series": 4,
+              "repetitions": 10
+            },
+            {
+              "type": "series",
+              "exercise": "maquina abductor + elevaciones laterales mancuerna",
+              "series": 3,
+              "repetitions": 10
+            },
+            {
+              "type": "series",
+              "exercise": "rotary torso",
+              "series": 4,
+              "repetitions": 10
+            },
+            {
+              "type": "series",
+              "exercise": "leñador arrodillado en kinesis o con elástico",
+              "series": 4,
+              "repetitions": 10
+            },
+            {
+              "type": "time",
+              "exercise":
+                "steper, 2' suave, 5' moderado, 3' suave",
+              "time": 10
+            },
+            {
+              "type": "time",
+              "exercise":
+                "vario, 2 suave, 6 moderado, 2 suave",
+              "time": 10
+            }
+          ]
+        },
+        {
+          "workout": 5,
+          "exercices": [
+            {
+              "type": "time",
+              "exercise":
+                "remo 10' 3suave, 5moderado, 2suave",
+              "time": 10
+            },
+            {
+              "type": "series",
+              "exercise": "circuito: sentadilla con disco en el pecho + leñador dcho kinesis + lunge dinamico frontal dcho + leñador izqdo + lunge dinamico izqdo",
+              "series": 4,
+              "repetitions": 12
+            },
+            {
+              "type": "time",
+              "exercise":
+                "remo, 2 suave, 6 moderado, 2 suave",
+              "time": 10
+            },
+            {
+              "type": "series",
+              "exercise": "circuito B: remo cerrado TRX + hip thruster o medio puente a una pierna + flexiones abriendo y cerrando manos (pectoral/triceps) + 1' de remo fuerte + plancha 20''",
+              "series": 4,
+              "repetitions": 12
+            },
+            {
+              "type": "time",
+              "exercise":
+                "eliptica suave",
               "time": 10
             }
           ]
