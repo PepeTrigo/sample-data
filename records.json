@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "title": "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars",
+    "artist": "David Bowie",
+    "genre": "Rock",
+    "style": ["Classic Rock"],
+    "year": 1972,
+    "cover": "ziggy-stardust.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Are You Experienced",
+    "artist": "The Jimi Hendrix Experience",
+    "genre": "Rock",
+    "style": ["Blues Rock"],
+    "year": 1967,
+    "cover": "are-you-experinced.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Unknown Pleasures",
+    "artist": "Joy Division",
+    "genre": "Rock",
+    "style": ["New Wave", "Post Punk"],
+    "year": 1979,
+    "cover": "unknown-pleasures.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Who's Next",
+    "artist": "The Who",
+    "genre": "Rock",
+    "style": ["Progressive Rock", "Mod"],
+    "year": 1971,
+    "cover": "whos-next.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The Dark Side Of The Moon",
+    "artist": "Pink Floyd",
+    "genre": "Rock",
+    "style": ["Psychedelic Rock"],
+    "year": 1973,
+    "cover": "dark-side-of-the-moon.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Maggot Brain",
+    "artist": "Funkadelic",
+    "genre": "Funk & Soul",
+    "style": ["Progressive Funk", "Psychedelic Rock"],
+    "year": 1971,
+    "cover": "maggot-brain.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Super Fly (The Original Motion Picture Soundtrack)",
+    "artist": "Curtis Mayfield",
+    "genre": "Funk & Soul",
+    "style": ["Soundtrack", "Soul", "Funk"],
+    "year": 1972,
+    "cover": "superfly.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Hot Buttered Soul",
+    "artist": "Isaac Hayes",
+    "genre": "Funk & Soul",
+    "style": ["Soul", "Funk"],
+    "year": 1969,
+    "cover": "hot-buttered-soul.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Betty Davis",
+    "artist": "They say I'm different",
+    "genre": "Funk & Soul",
+    "style": ["Blues Rock", "Soul", "Funk"],
+    "year": 1971,
+    "cover": "they-say-im-different.jpg"
+  },
+  {
+    "id": 10,
+    "title": "What's Going On",
+    "artist": "Marvin Gaye",
+    "genre": "Funk & Soul",
+    "style": ["Soul"],
+    "year": 1971,
+    "cover": "whats-going-on.jpg"
+  },
+  {
+    "id": 11,
+    "title": "It Takes A Nation Of Millions To Hold Us Back",
+    "artist": "Public Enemy",
+    "genre": "Hip Hop",
+    "style": ["Conscious"],
+    "year": 1988,
+    "cover": "it-takes-a-nation.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Licensed To Ill",
+    "artist": "Beastie Boys",
+    "genre": "Hip Hop",
+    "style": ["Beastie"],
+    "year": 1986,
+    "cover": "licensed-to-ill.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Straight Outta Compton",
+    "artist": "N.W.A",
+    "genre": "Hip Hop",
+    "style": ["Gangsta"],
+    "year": 1988,
+    "cover": "straight-outta-compton.jpg"
+  },
+  {
+    "id": 14,
+    "title": "3 Feet High And Rising",
+    "artist": "De La Soul",
+    "genre": "Hip Hop",
+    "style": ["Pop Rap", "Conscious"],
+    "year": 1989,
+    "cover": "3-feet-high.jpg"
+  },
+  {
+    "id": 15,
+    "title": "The Score",
+    "artist": "Fugees",
+    "genre": "Hip Hop",
+    "style": ["Conscious"],
+    "year": 1996,
+    "cover": "the-score.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Legend (The Best Of Bob Marley And The Wailers)",
+    "artist": "Bob Marley & The Wailers",
+    "genre": "Reggae",
+    "style": ["Roots", "Dub"],
+    "year": 1984,
+    "cover": "legend.jpg"
+  },
+  {
+    "id": 17,
+    "title": "King Tubbys Meets Rockers Uptown",
+    "artist": "Agustus Pablo",
+    "genre": "Reggae",
+    "style": ["Roots"],
+    "year": 1976,
+    "cover": "king-tubby.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Funky Kingston",
+    "artist": "Toots & The Maytals",
+    "genre": "Reggae",
+    "style": ["Rocksteady"],
+    "year": 1973,
+    "cover": "funky-kingston.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Twice",
+    "artist": "Hollie Cook",
+    "genre": "Reggae",
+    "style": ["Dub"],
+    "year": 2014,
+    "cover": "twice.jpg"
+  },
+  {
+    "id": 20,
+    "title": "War Ina Babylon",
+    "artist": "Max Romeo",
+    "genre": "Reggae",
+    "style": ["Roots", "Dub"],
+    "year": 1976,
+    "cover": "war-inna-babylon.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Exit Planet Dust",
+    "artist": "The Chemical Brothers",
+    "genre": "Electronic",
+    "style": ["Breakbeat", "Trip Hop", "Big Beat"],
+    "year": 1995,
+    "cover": "exit-planet-dust.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Massive Attack",
+    "artist": "Blue Lines",
+    "genre": "Electronic",
+    "style": ["Trip Hop", "Dub", "Downtempo"],
+    "year": 1991,
+    "cover": "blue-lines.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Endtroducing.....",
+    "artist": "DJ Shadow",
+    "genre": "Electronic",
+    "style": ["DJ Cut-up", "Dub", "Downtempo"],
+    "year": 1996,
+    "cover": "endtroducing.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Music Has The Right To Children",
+    "artist": "Boards Of Canada",
+    "genre": "Electronic",
+    "style": ["IDM", "Ambient"],
+    "year": 1998,
+    "cover": "music-has-the-right-to-children.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Sounds From The Thievery Hi-Fi",
+    "artist": "Thievery Corporation",
+    "genre": "Electronic",
+    "style": ["Downtempo", "Trip Hop"],
+    "year": 1996,
+    "cover": "sounds-of-the-thievery-hi-fi.jpg"
+  }
+]
